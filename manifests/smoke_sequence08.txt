@@ -1,0 +1,6 @@
+# Fixed SemanticKITTI sequence 08 smoke-test frames.
+08/000000
+08/000100
+08/001000
+08/002000
+08/004000
